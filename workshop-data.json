@@ -1,0 +1,151 @@
+{
+  "brandBadge": "🌸 Workshop • Self-Growth",
+  "workshopNameTopbar": "Self Love Workshop (13th)",
+  "pageTitle": "Self Love Workshop • The Art of Loving Yourself",
+  "metaDescription": "The Art of Loving Yourself — Heal. Ground. Strengthen. Become Emotionally Self-Sufficient.",
+
+  "razorpayPaymentUrl": "https://rzp.io/rzp/kaivalyaanadaam",
+  "workshopStartIST": "2026-02-13T19:00:00+05:30",
+  "spotsLeft": 21,
+
+  "youtubeVideoId": "z6X5oEIg6Ak",
+  "youtubeCardCaption": "🎥 A gentle self-love reset before the workshop (optional).",
+  "youtubeButtonText": "▶ Watch a Self-Love Reset (Optional)",
+
+  "background": {
+    "blurImageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=70",
+    "noiseTextureUrl": "https://www.transparenttextures.com/patterns/asfalt-dark.png"
+  },
+
+  "hero": {
+    "kicker": "✨ Heal • Ground • Strengthen • Become Emotionally Self-Sufficient",
+    "title": "The Art of Loving Yourself 💖",
+    "subtitle": "Learn how to build self-worth, inner stability, and emotional balance — <strong>without changing who you are.</strong>",
+    "quoteStrong": "Self-love is not ego.",
+    "quoteText": "It is the courage to treat yourself with the same kindness you give others.",
+    "fineLine": "🧘 Beginner friendly • 🤍 Emotionally safe • 🛠️ Practical, not preachy",
+    "ctaPrimary": "💌 Contribute & Register",
+    "ctaSecondary": "📚 See what you’ll learn"
+  },
+
+  "photoStrip": [
+    {
+      "img": "https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&w=900&q=70",
+      "alt": "Diya and warm light",
+      "tag": "🪔 Grounding"
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1529693662653-9d480530a697?auto=format&fit=crop&w=900&q=70",
+      "alt": "Yoga / meditation",
+      "tag": "🧘 Calm"
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=900&q=70",
+      "alt": "Temple / heritage",
+      "tag": "🌿 Healing"
+    }
+  ],
+
+  "details": {
+    "title": "Workshop Details 📌",
+    "date": "13th FEB",
+    "time": "TBA",
+    "format": "Zoom",
+    "duration": "2 Hours",
+    "contribution": "₹51 or more"
+  },
+
+  "host": {
+    "name": "Dr. Shilpa Rana 🌼",
+    "role": "Counselor • Reiki Grand Master • Founder – Vedantic Vibes & Kaivalya Nadam",
+    "howToJoin": "After contribution, you’ll receive joining details (Zoom link or venue) via a WhatsApp group. 📲"
+  },
+
+  "sections": {
+    "why": {
+      "title": "Why do you feel drained even after doing everything right? 😮‍💨",
+      "sub": "If any of these feel familiar, this workshop gently breaks the cycle — without blame, pressure, or pushing you to “be different.”",
+      "items": [
+        { "h": "You adjust too much and lose yourself", "p": "You keep the peace outside, but feel disconnected inside." },
+        { "h": "Your inner voice is harsher than any outsider", "p": "Even small mistakes trigger guilt, anxiety, or self-judgment." },
+        { "h": "You seek validation but feel empty after receiving it", "p": "Approval gives a quick high — then the doubt returns." },
+        { "h": "You say YES when your soul is screaming NO", "p": "Boundaries feel “wrong”, even when you’re exhausted." },
+        { "h": "You give love but forget to receive it — from yourself", "p": "Your kindness is real… it just doesn’t reach you yet." },
+        { "h": "You want peace, but feel stable only when others are happy", "p": "Emotional safety becomes dependent on external calm." }
+      ]
+    },
+
+    "what": {
+      "title": "What you will experience in this workshop ✨",
+      "sub": "Everything in this workshop is <strong>emotionally safe</strong>, <strong>Vedantic in wisdom</strong>, and <strong>practical (not preachy)</strong>.",
+      "items": [
+        { "h": "What self-love is (and what it is not) 🧠", "p": "Understand self-love vs selfishness, and why “trying harder” often makes it worse." },
+        { "h": "Understanding your inner voice 🎙️", "p": "How self-talk shapes confidence & emotional safety — inner critic vs inner guide." },
+        { "h": "Emotional needs & self-validation 💛", "p": "Why approval feels addictive and how to validate yourself emotionally." },
+        { "h": "Boundaries for inner peace 🛡️", "p": "Why saying NO feels wrong and how to respect yourself without guilt or conflict." },
+        { "h": "Healing past emotional wounds 🌿", "p": "Work with childhood patterns, fear of rejection & abandonment; feel safe within yourself again." },
+        { "h": "Self-love through Vedantic lens 🕉️", "p": "You are not broken — you are complete. Witness emotions without drowning in them." }
+      ],
+      "belowCtaNote": "Guided inner healing meditation + reflection exercises + practical tools 🛠️"
+    },
+
+    "who": {
+      "title": "Who will benefit the most 🙋‍♀️🙋‍♂️",
+      "sub": "If you’re any of the below, you’ll feel seen — and supported.",
+      "items": [
+        { "h": "Emotionally drained individuals 😵‍💫", "p": "Even after “doing everything right”, you feel tired inside." },
+        { "h": "Over-givers & caretakers 🤍", "p": "You carry others, but forget how to hold yourself." },
+        { "h": "Low confidence / self-doubt 🪞", "p": "Your worth feels conditional and fragile." },
+        { "h": "Highly sensitive individuals 🌙", "p": "You absorb emotions and struggle to stay grounded." },
+        { "h": "Students & professionals 💼", "p": "Performance is high, inner peace is low." },
+        { "h": "Spiritual seekers 🧿", "p": "You want grounded growth — not escapism." }
+      ]
+    },
+
+    "takeaways": {
+      "title": "Workshop takeaways 🎁",
+      "sub": "After this workshop, participants will:",
+      "items": [
+        { "h": "Develop emotional self-support 🌼", "p": "Less dependence on reassurance; more inner steadiness." },
+        { "h": "Reduce self-doubt & inner conflict 🫶", "p": "Clearer decisions and less mental tug-of-war." },
+        { "h": "Build quiet inner confidence 🧡", "p": "Calm strength — not loud motivation." },
+        { "h": "Improve relationships naturally 🤝", "p": "When you stop abandoning yourself, relationships improve without force." }
+      ],
+      "finalCallout": "<strong>Final reminder:</strong> You don’t need fixing. You need remembering. Self-love is coming home to yourself. 🏡💖"
+    },
+
+    "testimonials": {
+      "title": "Stories of gentle transformation 🌈",
+      "sub": "A few words from people who did similar inner work:",
+      "items": [
+        { "quote": "“I felt emotionally safe. The inner-voice exercise changed how I speak to myself. It’s like I finally became my own friend.”", "name": "— Aditi, Working Professional" },
+        { "quote": "“I learned boundaries without guilt. I’m calmer at home and at work. Simple tools, big difference.”", "name": "— Rohan, Entrepreneur" },
+        { "quote": "“The Vedantic perspective made everything click — I’m not broken. I feel anchored and softer inside.”", "name": "— Meera, Student" }
+      ]
+    },
+
+    "faq": {
+      "title": "Frequently Asked Questions ❓",
+      "sub": "Based on what you shared — these are the most common doubts.",
+      "items": [
+        { "q": "1) Is this therapy?", "a": "No. It is a guided self-awareness and healing workshop — gentle, safe, and empowering.", "open": true },
+        { "q": "2) Is it spiritual or psychological?", "a": "It is both — Vedantic wisdom applied psychologically.", "open": false },
+        { "q": "3) Will this help relationships?", "a": "Yes. When you stop abandoning yourself, relationships naturally improve.", "open": false },
+        { "q": "4) Do I need prior meditation or self-work experience?", "a": "No. This workshop meets you where you are.", "open": false }
+      ],
+      "bottomLine": "“Self-love is coming home to yourself.” 🏡✨"
+    }
+  },
+
+  "contribute": {
+    "title": "Contribute & Register 💌",
+    "text": "Contribution is <strong>₹51 or more</strong>. After payment, you’ll receive the WhatsApp group link and joining details. 📲",
+    "buttonText": "💖 Contribute ₹51+ (Razorpay)",
+    "hint": "You’ll be redirected to Razorpay to complete payment."
+  },
+
+  "footer": {
+    "callout": "<strong>Final message:</strong> You don’t need fixing. You need remembering. Self-love is not a luxury — it is a life skill. 🌸",
+    "copyright": "Self Love Workshop • All rights reserved"
+  }
+}
