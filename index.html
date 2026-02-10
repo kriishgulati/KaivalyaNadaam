@@ -364,16 +364,25 @@
     .value{font-weight:1000}
 
     .host{ display:flex; gap:.75rem; align-items:center; margin-top:.75rem; }
+
+    /* ✅ Host image (mobile size) */
     .avatar{
-      width:3rem; height:3rem; border-radius: 1rem;
-      background:
-        radial-gradient(120% 120% at 20% 10%, rgba(244,197,66,.22), transparent 60%),
-        radial-gradient(120% 120% at 80% 10%, rgba(178,92,255,.22), transparent 55%),
-        rgba(255,255,255,.06);
+      width:3rem;
+      height:3rem;
+      border-radius: 1rem;
+      overflow:hidden;
       border:1px solid rgba(255,255,255,.12);
+      background: rgba(255,255,255,.06);
       box-shadow: 0 1.125rem 3.125rem rgba(0,0,0,.35);
       flex:0 0 auto;
     }
+    .avatar img{
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      display:block;
+    }
+
     .host .name{font-weight:1000}
     .host .role{color:var(--muted); font-size:.82rem; font-weight:700}
 
@@ -580,6 +589,13 @@
       .grid-3{ grid-template-columns: repeat(3, 1fr); }
       .card{ padding: 1.35rem; }
       .pimg{ height: 7.4rem; }
+
+      /* ✅ Make host image slightly bigger on desktop only */
+      .avatar{
+        width: 3.6rem;
+        height: 3.6rem;
+        border-radius: 1.15rem;
+      }
     }
   </style>
 </head>
@@ -683,8 +699,11 @@
             </div>
           </div>
 
+          <!-- ✅ Host block with image -->
           <div class="host">
-            <div class="avatar" aria-hidden="true"></div>
+            <div class="avatar">
+              <img id="hostImg" alt="" />
+            </div>
             <div>
               <div class="name" id="hostName"></div>
               <div class="role" id="hostRole"></div>
@@ -1066,6 +1085,20 @@
       document.getElementById("hostName").textContent = d.host?.name || "";
       document.getElementById("hostRole").textContent = d.host?.role || "";
       document.getElementById("hostHowToJoin").innerHTML = `<strong>How to join:</strong> ${d.host?.howToJoin || ""}`;
+
+      // ✅ Host image
+      const hostImg = document.getElementById("hostImg");
+      if (hostImg){
+        if (d.host?.image){
+          hostImg.src = d.host.image; // e.g. "host.png"
+          hostImg.alt = d.host.imageAlt || d.host.name || "Host";
+          hostImg.loading = "lazy";
+          hostImg.referrerPolicy = "no-referrer";
+          hostImg.style.display = "block";
+        } else {
+          hostImg.style.display = "none";
+        }
+      }
 
       // Spots
       const spotsPill = document.getElementById("spotsPill");
